@@ -1,3 +1,5 @@
+[link for the blog post](https://medium.com/@omkarbhad66/starbucks-challenge-f131242398c9)
+
 ## Table of Contents
 1. [Installation](#installation)
 2. [Introducing a Dataset](#dataset-introduction)
